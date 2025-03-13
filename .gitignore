@@ -1,6 +1,7 @@
 fractathlon
 
 # Python
+*:Zone.Identifier
 venv
 __pycache__/
 *.py[cod]
