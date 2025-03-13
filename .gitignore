@@ -2,9 +2,6 @@ fractathlon
 
 # Python
 venv
-fractathlon/test
-fractathlon/train
-fractathlon/validation
 __pycache__/
 *.py[cod]
 *$py.class
